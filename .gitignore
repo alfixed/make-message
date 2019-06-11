@@ -1,0 +1,11 @@
+# Mac 
+*.DS_Store
+
+# IDEs
+.alm
+.vscode
+
+## Dependency directory
+node_modules
+
+.build

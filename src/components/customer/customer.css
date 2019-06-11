@@ -1,0 +1,38 @@
+.customer {
+    display: flex;
+    justify-content: center;
+}
+
+.plate {
+    max-width: 1200px;
+    width: 100%;
+}
+
+.input {
+    padding-right: 10px;
+}
+
+.textarea {
+    width: 100%;
+    min-width: 1000px;
+}
+
+.width60 {
+    width: 70%
+}
+
+.width {
+    width: 40%
+}
+
+.radio {
+    max-width: 950px;
+}
+
+.displayFlex {
+    display: flex;
+}
+
+.checkBox {
+    padding-right: 20px;
+}
